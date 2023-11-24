@@ -15,7 +15,7 @@ My research interests include Sentiment Analysis and LLM Safety.
 Publications
 ======
 - [Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org/abs/2310.06474)
-- **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
+**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
 <ins>*arXiv:2310.06474*</ins> [\[paper\]](https://arxiv.org/abs/2310.06474) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)
 - [SOUL: Towards Sentiment and Opinion Understanding of Language](https://arxiv.org/abs/2310.17924)
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
