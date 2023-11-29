@@ -42,7 +42,7 @@ Experience
 - Dec. 2017 - Jun. 2018, Shopee Pte. Ltd., Singapore
 
 <br>
-<div style="transform: scale(0.5); transform-origin: top left;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; transform: scale(0.7); transform-origin: top left;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mbKmvcLMBYoZWNicchf11wWWJ1TxNprEv2i86NSGg3I&cl=ffffff&w=a"></script>
 </div>
 
