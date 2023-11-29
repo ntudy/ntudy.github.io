@@ -40,8 +40,4 @@ Experience
 - Aug. 2019 - Jul. 2020, HP-NTU Digital Manufacturing Corporate Lab, advised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html)
 - Dec. 2018 - Jan. 2019, Baidu Inc., Shenzhen China
 - Dec. 2017 - Jun. 2018, Shopee Pte. Ltd., Singapore
-  
-<div style="transform: scale(0.7); transform-origin: top left;">
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=mbKmvcLMBYoZWNicchf11wWWJ1TxNprEv2i86NSGg3I&cl=ffffff&w=a"></script>
-</div>
 
