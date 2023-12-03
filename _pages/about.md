@@ -16,7 +16,7 @@ Publications
 ======
 - [Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org/abs/2310.06474)
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
-<ins>*Submitted to ICLR 2024*</ins> [\[paper\]](https://arxiv.org/abs/2310.06474) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)
+<ins>*arXiv:2310.06474*</ins> [\[paper\]](https://arxiv.org/abs/2310.06474) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)
 - [SOUL: Towards Sentiment and Opinion Understanding of Language](https://arxiv.org/abs/2310.17924)
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
 <ins>*EMNLP 2023, Short*</ins> [\[paper\]](https://arxiv.org/abs/2310.17924) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
