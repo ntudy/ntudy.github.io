@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. student at [School of Computer Science and Engineering](https://www.ntu.edu.sg/scse), Nanyang Technological University (NTU), Singapore. I am supervised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). I also work closely with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). Before that, I received my bachelor degree at [School of Computer Science and Engineering](https://www.ntu.edu.sg/scse), Nanyang Technological University (NTU), Singapore.
 
-My research interests include Sentiment Analysis and LLM Safety.
+My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 Publications
 ======
