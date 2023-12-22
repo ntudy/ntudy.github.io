@@ -14,19 +14,21 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 📝 Publications
 ======
-- [Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org/abs/2310.06474)
-**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
-<ins>*arXiv:2310.06474*</ins> [\[paper\]](https://arxiv.org/abs/2310.06474) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs)
-- [SOUL: Towards Sentiment and Opinion Understanding of Language](https://arxiv.org/abs/2310.17924)
-**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
-<ins>*EMNLP 2023, Short*</ins> [\[paper\]](https://arxiv.org/abs/2310.17924) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
-- [Sentiment Analysis in the Era of Large Language Models: A Reality Check](https://arxiv.org/abs/2305.15005)
-Wenxuan Zhang\*, **Yue Deng\***, Bing Liu, Sinno Jialin Pan, Lidong Bing.
-<ins>*arXiv:2305.15005*</ins> [\[paper\]](https://arxiv.org/abs/2305.15005
-) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
-- [Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis](https://aclanthology.org/2023.acl-long.686/)
-**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.
-<ins>*ACL 2023*</ins> [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](https://github.com/DAMO-NLP-SG/BGCA)
+- **<ins>Multilingual Jailbreak Challenges in Large Language Models</ins>**\
+**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
+Preprint [\[paper\]](https://arxiv.org/abs/2310.06474) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs) 
+
+- **<ins>SOUL: Towards Sentiment and Opinion Understanding of Language</ins>**\
+**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
+EMNLP 2023 Short [\[paper\]](https://aclanthology.org/2023.emnlp-main.538/) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
+
+- **<ins>Sentiment Analysis in the Era of Large Language Models: A Reality Check</ins>**\
+Wenxuan Zhang\*, **Yue Deng\***, Bing Liu, Sinno Jialin Pan, Lidong Bing.\
+Preprint [\[paper\]](https://arxiv.org/abs/2305.15005) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
+
+- **<ins>Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis</ins>**\
+**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
+ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](https://github.com/DAMO-NLP-SG/BGCA)
 
 🏅 Awards
 ======
