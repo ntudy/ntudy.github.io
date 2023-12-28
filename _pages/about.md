@@ -12,19 +12,26 @@ I am a fourth-year Ph.D. student at [School of Computer Science and Engineering]
 
 My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
-📝 Publications
+📝 Preprints
 ======
+
+- **<ins>SeaLLMs - Large Language Models for Southeast Asia</ins>**\
+Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, **Yue Deng**, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing\
+Preprint [\[paper\]](https://arxiv.org/abs/2312.00738) [\[code\]](https://github.com/DAMO-NLP-SG/SeaLLMs)
+
 - **<ins>Multilingual Jailbreak Challenges in Large Language Models</ins>**\
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
 Preprint [\[paper\]](https://arxiv.org/abs/2310.06474) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs) 
 
-- **<ins>SOUL: Towards Sentiment and Opinion Understanding of Language</ins>**\
-**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
-EMNLP 2023 Short [\[paper\]](https://aclanthology.org/2023.emnlp-main.538/) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
-
 - **<ins>Sentiment Analysis in the Era of Large Language Models: A Reality Check</ins>**\
 Wenxuan Zhang\*, **Yue Deng\***, Bing Liu, Sinno Jialin Pan, Lidong Bing.\
 Preprint [\[paper\]](https://arxiv.org/abs/2305.15005) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
+
+📝 Publications
+======
+- **<ins>SOUL: Towards Sentiment and Opinion Understanding of Language</ins>**\
+**Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
+EMNLP 2023 [\[paper\]](https://aclanthology.org/2023.emnlp-main.538/) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
 
 - **<ins>Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis</ins>**\
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
