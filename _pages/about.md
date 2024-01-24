@@ -45,8 +45,8 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 
 🎓 Educations
 ======
-- *2020.08 - Present*, PhD student, Computer Science, Nanyang Technological University
-- *2015.08 - 2019.06*, B.Eng. with Honours (Highest Distinction), Computer Science, Nanyang Technological University
+- *2020.08 - Present*, PhD student, Nanyang Technological University
+- *2015.08 - 2019.06*, B.Eng. with Honours (Highest Distinction), Nanyang Technological University
 
 💼 Experience
 ======
