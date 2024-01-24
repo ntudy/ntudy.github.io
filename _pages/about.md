@@ -39,14 +39,14 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 
 🏅 Awards
 ======
-- Alibaba Talent Programme Scholarship, 2020-2024
+- Alibaba Talent Programme Full Scholarship, 2020-2024
 - Dean's List Award, 2016
 - Science and Engineering Undergraduate Full Scholarship, 2015-2019
 
 🎓 Educations
 ======
-- *2020.08 - Present*, PhD student, Nanyang Technological University
-- *2015.08 - 2019.06*, Undergraduate Student, Nanyang Technological University
+- *2020.08 - Present*, PhD student, Computer Science, Nanyang Technological University
+- *2015.08 - 2019.06*, B.Eng. with Honours (Highest Distinction), Computer Science, Nanyang Technological University
 
 💼 Experience
 ======
