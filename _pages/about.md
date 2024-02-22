@@ -15,6 +15,10 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 📝 Preprints
 ======
 
+- **<ins>Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation</ins>**\
+Quanyu Long\*, **Yue Deng\***, LeiLei Gan, Wenya Wang, Sinno Jialin Pan\
+Preprint [\[paper\]](https://arxiv.org/abs/2402.13532) [\[code\]](https://github.com/ruyue0001/Backdoor_DPR)
+
 - **<ins>SeaLLMs - Large Language Models for Southeast Asia</ins>**\
 Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, **Yue Deng**, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing\
 Preprint [\[paper\]](https://arxiv.org/abs/2312.00738) [\[code\]](https://github.com/DAMO-NLP-SG/SeaLLMs)
