@@ -27,19 +27,19 @@ Preprint [\[paper\]](https://arxiv.org/abs/2312.00738) [\[code\]](https://github
 ======
 - **<ins>Sentiment Analysis in the Era of Large Language Models: A Reality Check</ins>**\
 Wenxuan Zhang\*, **Yue Deng\***, Bing Liu, Sinno Jialin Pan, Lidong Bing.\
-NAACL 2024, Findings (Long) [\[paper\]](https://arxiv.org/abs/2305.15005) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
+Findings of NAACL 2024 [\[paper\]](https://arxiv.org/abs/2305.15005) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
 
 - **<ins>Multilingual Jailbreak Challenges in Large Language Models</ins>**\
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
-ICLR 2024 (Poster) [\[paper\]](https://openreview.net/forum?id=vESNKdEMGp&) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs) 
+ICLR 2024 [\[paper\]](https://openreview.net/forum?id=vESNKdEMGp&) [\[code\]](https://github.com/DAMO-NLP-SG/multilingual-safety-for-LLMs) 
 
 - **<ins>SOUL: Towards Sentiment and Opinion Understanding of Language</ins>**\
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
-EMNLP 2023 (Short) [\[paper\]](https://aclanthology.org/2023.emnlp-main.538/) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
+EMNLP 2023 [\[paper\]](https://aclanthology.org/2023.emnlp-main.538/) [\[code\]](https://github.com/DAMO-NLP-SG/SOUL)
 
 - **<ins>Bidirectional Generative Framework for Cross-domain Aspect-based Sentiment Analysis</ins>**\
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
-ACL 2023 (Long) [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](https://github.com/DAMO-NLP-SG/BGCA)
+ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](https://github.com/DAMO-NLP-SG/BGCA)
 
 🏅 Awards
 ======
