@@ -12,6 +12,11 @@ I am a fourth-year Ph.D. student at [School of Computer Science and Engineering]
 
 My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
+🎓 Educations
+======
+- *2020.08 - Present*, PhD student, Nanyang Technological University
+- *2015.08 - 2019.06*, B.Eng. with Honours (Highest Distinction), Nanyang Technological University
+
 📝 Preprints
 ======
 
@@ -20,7 +25,7 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 Quanyu Long\*, **Yue Deng\***, LeiLei Gan, Wenya Wang, Sinno Jialin Pan\
 Preprint [\[paper\]](https://arxiv.org/abs/2402.13532) [\[code\]](https://github.com/ruyue0001/Backdoor_DPR)
 
-📝 Publications
+📚 Publications
 ======
 
 - **<ins>SeaLLMs - Large Language Models for Southeast Asia</ins>**\
@@ -49,10 +54,11 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 - Dean's List Award, 2016
 - Science and Engineering Undergraduate Full Scholarship, 2015-2019
 
-🎓 Educations
-======
-- *2020.08 - Present*, PhD student, Nanyang Technological University
-- *2015.08 - 2019.06*, B.Eng. with Honours (Highest Distinction), Nanyang Technological University
+🖊️ Services
+=======
+- Reviewer: TAC'24, WWW'24, ARR'24 Feb, ARR'24 Apr, ARR'24 Jun
+- Teaching Assistant: CZ1107 Data Structures & Algorithms, CZ3001 Advanced Computer Architecture
+
 
 💼 Experience
 ======
