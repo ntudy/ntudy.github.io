@@ -20,6 +20,9 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 📝 Preprints
 ======
 
+- **<ins>SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages</ins>**\
+Wenxuan Zhang, Hou Pong Chan, Yiran Zhao, Mahani Aljunied, Jianyu Wang, Chaoqun Liu, **Yue Deng**, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing\
+Preprint [\[paper\]](https://arxiv.org/abs/2407.19672) [\[code\]](https://huggingface.co/SeaLLMs/SeaLLMs-v3-7B-Chat)
 
 - **<ins>Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation</ins>**\
 Quanyu Long\*, **Yue Deng\***, LeiLei Gan, Wenya Wang, Sinno Jialin Pan\
