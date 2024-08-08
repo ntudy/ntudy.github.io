@@ -37,7 +37,7 @@ ACL 2024 System Demostration Track [\[paper\]](https://arxiv.org/abs/2312.00738)
 
 - **<ins>Sentiment Analysis in the Era of Large Language Models: A Reality Check</ins>**\
 Wenxuan Zhang\*, **Yue Deng\***, Bing Liu, Sinno Jialin Pan, Lidong Bing.\
-Findings of NAACL 2024 [\[paper\]](https://arxiv.org/abs/2305.15005) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
+Findings of NAACL 2024 [\[paper\]](https://aclanthology.org/2024.findings-naacl.246/) [\[code\]](https://github.com/DAMO-NLP-SG/LLM-Sentiment)
 
 - **<ins>Multilingual Jailbreak Challenges in Large Language Models</ins>**\
 **Yue Deng**, Wenxuan Zhang, Sinno Jialin Pan, Lidong Bing.\
