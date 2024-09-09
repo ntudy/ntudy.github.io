@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year Ph.D. student at [School of Computer Science and Engineering](https://www.ntu.edu.sg/scse), Nanyang Technological University (NTU), Singapore. I am supervised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). I also work closely with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). Before that, I received my bachelor degree at [School of Computer Science and Engineering](https://www.ntu.edu.sg/scse), Nanyang Technological University (NTU), Singapore.
+I am currently working as an NLP Algorithm Engineer at TikTok in Singapore. Prior to this, I was a PhD student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). During my PhD, I collaborated extensively with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). I also hold a bachelor's degree in Computer Science from NTU.
 
 My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
