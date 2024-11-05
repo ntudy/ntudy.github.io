@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as an NLP Algorithm Engineer at TikTok in Singapore. Prior to this, I was a PhD student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). During my PhD, I collaborated extensively with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). I also hold a bachelor's degree in Computer Science from NTU.
+I am a PhD student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). During my PhD, I collaborated extensively with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). I also hold a bachelor's degree in Computer Science from NTU.
 
 My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
@@ -65,7 +65,7 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 
 💼 Experience
 ======
-- *2024.09 - Present*, TikTok Pte. Ltd., Singapore
+<!--- *2024.09 - Present*, TikTok Pte. Ltd., Singapore-->
 - *2022.04 - 2024.08*, DAMO Academy, Alibaba Group, advised by [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/)
 - *2019.08 - 2020.06*, HP-NTU Digital Manufacturing Corporate Lab, advised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html)
 - *2018.12 - 2019.01*, Baidu Inc., Shenzhen China
