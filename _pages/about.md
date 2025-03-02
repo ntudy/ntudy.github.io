@@ -20,9 +20,7 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 📝 Preprints
 ======
 
-- **<ins>SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages</ins>**\
-Wenxuan Zhang, Hou Pong Chan, Yiran Zhao, Mahani Aljunied, Jianyu Wang, Chaoqun Liu, **Yue Deng**, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing\
-Preprint [\[paper\]](https://arxiv.org/abs/2407.19672) [\[code\]](https://huggingface.co/SeaLLMs/SeaLLMs-v3-7B-Chat)
+
 
 - **<ins>Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation</ins>**\
 Quanyu Long\*, **Yue Deng\***, LeiLei Gan, Wenya Wang, Sinno Jialin Pan\
@@ -30,6 +28,10 @@ Preprint [\[paper\]](https://arxiv.org/abs/2402.13532) [\[code\]](https://github
 
 📚 Publications
 ======
+
+- **<ins>SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages</ins>**\
+Wenxuan Zhang, Hou Pong Chan, Yiran Zhao, Mahani Aljunied, Jianyu Wang, Chaoqun Liu, **Yue Deng**, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing\
+NAACL 2025 System Demostration Track [\[paper\]](https://arxiv.org/abs/2407.19672) [\[code\]](https://huggingface.co/SeaLLMs/SeaLLMs-v3-7B-Chat)
 
 - **<ins>SeaLLMs - Large Language Models for Southeast Asia</ins>**\
 Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, **Yue Deng**, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing\
@@ -59,17 +61,19 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 
 🖊️ Services
 =======
-- Reviewer: TAC'24, WWW'24, ACL'24, EMNLP'24, ICLR'25, WWW'25
+- Reviewer: TAC'24, WWW'24, ACL'24, EMNLP'24, ICLR'25, WWW'25, ACL'25
 - Teaching Assistant: CZ1107 Data Structures & Algorithms, CZ3001 Advanced Computer Architecture
 
 
 💼 Experience
 ======
-<!--- *2024.09 - Present*, TikTok Pte. Ltd., Singapore-->
-- *2022.04 - 2024.08*, DAMO Academy, Alibaba Group, advised by [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/)
-- *2019.08 - 2020.06*, HP-NTU Digital Manufacturing Corporate Lab, advised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html)
-- *2018.12 - 2019.01*, Baidu Inc., Shenzhen China
-- *2017.12 - 2018.06*, Shopee Pte. Ltd., Singapore
+- *2025.02 - Present*, **Research Scientist**, Shanda Group Pte. Ltd., Singapore
+- *2024.09 - 2025.02*, **Algorithm Engineer**, TikTok Pte. Ltd., Singapore
+- *2022.04 - 2024.08*, **Research Intern**, DAMO Academy, Alibaba Group, advised by [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/)
+- *2019.08 - 2020.06*, **Project Officer**, HP-NTU Digital Manufacturing Corporate Lab, advised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html)
+- *2018.12 - 2019.01*, **NLP Winter Intern**, Baidu Inc., Shenzhen China
+- *2017.12 - 2018.06*, **Data Scientist Intern**, Shopee Pte. Ltd., Singapore
+
 
 <!---
 <div style="transform: scale(0.5); transform-origin: top left;">
