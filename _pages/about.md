@@ -20,11 +20,14 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 📝 Preprints
 ======
 
-
+- **<ins>Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers</ins>**\
+Yiran Zhao, Chaoqun Liu, **Yue Deng**, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang\
+Technical Report [\[paper\]](https://arxiv.org/pdf/2503.00865) [\[model\]](https://huggingface.co/Tower-Babel)
 
 - **<ins>Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation</ins>**\
 Quanyu Long\*, **Yue Deng\***, LeiLei Gan, Wenya Wang, Sinno Jialin Pan\
 Preprint [\[paper\]](https://arxiv.org/abs/2402.13532) [\[code\]](https://github.com/ruyue0001/Backdoor_DPR)
+
 
 📚 Publications
 ======
