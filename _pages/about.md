@@ -19,6 +19,9 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 📝 Preprints
 ======
+- **<ins>100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models</ins>**\
+Chong Zhang\*, **Yue Deng\***, Xiang Lin\*, Bin Wang\*, Dianwen Ng, Hai Ye, Xingxuan Li, Yao Xiao, Zhanfeng Mo, Qi Zhang, Lidong Bing\
+Technical Report [\[paper\]](https://arxiv.org/pdf/2503.00865) [\[model\]](https://huggingface.co/Tower-Babel)
 
 - **<ins>Babel - Open Multilingual Large Language Models Serving Over 90% of Global Speakers</ins>**\
 Yiran Zhao, Chaoqun Liu, **Yue Deng**, Jiahao Ying, Mahani Aljunied, Zhaodonghui Li, Lidong Bing, Hou Pong Chan, Yu Rong, Deli Zhao, Wenxuan Zhang\
