@@ -75,7 +75,7 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 
 💼 Experience
 ======
-- *2025.02 - Present*, **Research Scientist**, Shanda Group Pte. Ltd., Singapore
+- *2025.02 - Present*, **Research Scientist**, Miromind, Singapore
 - *2024.09 - 2025.02*, **Algorithm Engineer**, TikTok Pte. Ltd., Singapore
 - *2022.04 - 2024.08*, **Research Intern**, DAMO Academy, Alibaba Group, advised by [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/)
 - *2019.08 - 2020.06*, **Project Officer**, HP-NTU Digital Manufacturing Corporate Lab, advised by [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html)
