@@ -19,6 +19,10 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 📝 Preprints
 ======
+- **<ins>MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization</ins>**\
+Xingxuan Li\*, Yao Xiao\*, Dianwen Ng\*, Hai Ye\*, **Yue Deng\***, Xiang Lin\*, Bin Wang\*, Zhanfeng Mo, Chong Zhang, Yueyi Zhang, Zonglin Yang, Ruilin Li, Lei Lei, Shihao Xu, Han Zhao, Weiling Chen, Feng Ji, Lidong Bing\
+Technical Report [\[paper\]](https://arxiv.org/abs/2507.14683) [\[code\]](https://github.com/MiroMindAsia/MiroMind-M1) [\[model\]](https://huggingface.co/miromind-ai/MiroMind-M1-RL-7B)
+
 - **<ins>100 Days After DeepSeek-R1: A Survey on Replication Studies and More Directions for Reasoning Language Models</ins>**\
 Chong Zhang\*, **Yue Deng\***, Xiang Lin\*, Bin Wang\*, Dianwen Ng, Hai Ye, Xingxuan Li, Yao Xiao, Zhanfeng Mo, Qi Zhang, Lidong Bing\
 Survey [\[paper\]](https://arxiv.org/abs/2505.00551) 
