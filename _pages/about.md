@@ -73,9 +73,7 @@ ACL 2023 [\[paper\]](https://aclanthology.org/2023.acl-long.686/) [\[code\]](htt
 
 🖊️ Services
 =======
-- Reviewer: TAC'24, WWW'24, ACL'24, EMNLP'24, ICLR'25, WWW'25, ACL'25
-- Teaching Assistant: CZ1107 Data Structures & Algorithms, CZ3001 Advanced Computer Architecture
-
+- Reviewer: ACL, EMNLP, ICLR, WWW, TAC, ARR
 
 💼 Experience
 ======
