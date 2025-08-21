@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). During my PhD, I collaborated extensively with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). I also hold a bachelor's degree in Computer Science from NTU.
+I am a Research Scientist at [Miromind.ai](https://miromind.ai/). I received my PhD in the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). During my PhD, I collaborated extensively with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). I also hold a bachelor's degree in Computer Science from NTU.
 
 My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 🎓 Educations
 ======
-- *2020.08 - Present*, PhD student, Nanyang Technological University
-- *2015.08 - 2019.06*, B.Eng. with Honours (Highest Distinction), Nanyang Technological University
+- *2020.08 - 2024.08*, Ph.D. in Computer Science, Nanyang Technological University
+- *2015.08 - 2019.06*, B.Eng. in Computer Science (Honours, Highest Distinction), Nanyang Technological University
 
 📝 Preprints
 ======
