@@ -19,6 +19,10 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 📝 Preprints
 ======
+- **<ins>First Try Matters: Revisiting the Role of Reflection in Reasoning Models</ins>**\
+Liwei Kang, **Yue Deng**, Yao Xiao, Zhanfeng Mo, Wee Sun Lee, Lidong Bing\
+Arxiv [\[paper\]](https://arxiv.org/abs/2510.08308) [\[code\]](https://github.com/Olafyii/first-try-matters) [\[data\]](https://huggingface.co/datasets/olafyiii/first-try-matters)
+
 - **<ins>MiroMind-M1: An Open-Source Advancement in Mathematical Reasoning via Context-Aware Multi-Stage Policy Optimization</ins>**\
 Xingxuan Li\*, Yao Xiao\*, Dianwen Ng\*, Hai Ye\*, **Yue Deng\***, Xiang Lin\*, Bin Wang\*, Zhanfeng Mo, Chong Zhang, Yueyi Zhang, Zonglin Yang, Ruilin Li, Lei Lei, Shihao Xu, Han Zhao, Weiling Chen, Feng Ji, Lidong Bing\
 Technical Report [\[paper\]](https://arxiv.org/abs/2507.14683) [\[code\]](https://github.com/MiroMindAsia/MiroMind-M1) [\[model\]](https://huggingface.co/miromind-ai/MiroMind-M1-RL-7B)
