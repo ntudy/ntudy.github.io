@@ -41,9 +41,9 @@ Technical Report [\[paper\]](https://arxiv.org/pdf/2503.00865) [\[model\]](https
 📚 Publications
 ======
 
-- **<ins>Backdoor Attacks on Dense Passage Retrievers for Disseminating Misinformation</ins>**\
+- **<ins>Backdoor Attacks on Dense Retrieval via Public and Unintentional Triggers</ins>**\
 Quanyu Long\*, **Yue Deng\***, LeiLei Gan, Wenya Wang, Sinno Jialin Pan\
-COLM 2025 [\[paper\]](https://arxiv.org/abs/2402.13532) [\[code\]](https://github.com/ruyue0001/Backdoor_DPR)
+COLM 2025 [\[paper\]](https://openreview.net/forum?id=RsnxggqW4l#discussion) [\[code\]](https://github.com/ruyue0001/Backdoor_DPR)
 
 - **<ins>SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages</ins>**\
 Wenxuan Zhang, Hou Pong Chan, Yiran Zhao, Mahani Aljunied, Jianyu Wang, Chaoqun Liu, **Yue Deng**, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing\
