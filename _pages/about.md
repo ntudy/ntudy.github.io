@@ -17,6 +17,13 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 - *2020.08 - 2024.08*, Ph.D. in Computer Science, Nanyang Technological University
 - *2015.08 - 2019.06*, B.Eng. in Computer Science (Honours, Highest Distinction), Nanyang Technological University
 
+🧩 Projects
+======
+
+- **[Google Scholar Author Highlighter](https://chromewebstore.google.com/detail/google-scholar-author-hig/ijmngekkpaccbbjimedfkjpigplaikah?hl=en)**: A lightweight Chrome extension that highlights authorship positions on Google Scholar profile pages, used by **6,000+ researchers worldwide**.
+
+- **[MiroFlow](https://github.com/MiroMindAsia/MiroFlow)**: A fully open-source deep research agent achieving reproducible state-of-the-art performance on FutureX, GAIA, HLE, BrowserComp, and xBench.
+
 📝 Preprints
 ======
 - **<ins>First Try Matters: Revisiting the Role of Reflection in Reasoning Models</ins>**\
