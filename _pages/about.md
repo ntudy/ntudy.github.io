@@ -20,7 +20,7 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 🧩 Projects
 ======
 
-- **[Google Scholar Author Highlighter](https://chromewebstore.google.com/detail/google-scholar-author-hig/ijmngekkpaccbbjimedfkjpigplaikah?hl=en)**: A lightweight Chrome extension that highlights authorship positions on Google Scholar profile pages, used by **6,000+ researchers worldwide**.
+- **[Google Scholar Author Highlighter](https://chromewebstore.google.com/detail/google-scholar-author-hig/ijmngekkpaccbbjimedfkjpigplaikah?hl=en)**: A lightweight Chrome extension that highlights authorship positions on Google Scholar profile pages.
 
 - **[MiroFlow](https://github.com/MiroMindAsia/MiroFlow)**: A fully open-source deep research agent achieving reproducible state-of-the-art performance on FutureX, GAIA, HLE, BrowserComp, and xBench.
 
