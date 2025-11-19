@@ -24,6 +24,11 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 - **[MiroFlow](https://github.com/MiroMindAsia/MiroFlow)**: A fully open-source deep research agent achieving reproducible state-of-the-art performance on FutureX, GAIA, HLE, BrowserComp, and xBench.
 
+- **[MiroMind-M1](https://github.com/MiroMindAsia/MiroMind-M1)**: A fully open-source series of reasoning language models built on Qwen-2.5, focused on advancing mathematical reasoning.
+
+- **[SeaLLMs](https://github.com/DAMO-NLP-SG/DAMO-SeaLLMs)**: A family of language models optimized for Southeast Asian (SEA) languages. 
+  
+
 📝 Preprints
 ======
 - **<ins>First Try Matters: Revisiting the Role of Reflection in Reasoning Models</ins>**\
