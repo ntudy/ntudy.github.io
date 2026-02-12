@@ -31,6 +31,10 @@ My research interests include Sentiment Analysis, Multi-lingual and LLM Safety.
 
 📝 Preprints
 ======
+- **<ins>DeepResearchEval: An Automated Framework for Deep Research Task Construction and Agentic Evaluation</ins>**\
+Yibo Wang, Lei Wang, **Yue Deng**, Keming Wu, Yao Xiao, Huanjin Yao, Liwei Kang, Hai Ye, Yongcheng Jing, Lidong Bing\
+Arxiv [\[paper\]](https://arxiv.org/abs/2601.09688) [\[code\]](https://github.com/Infinity-AILab/DeepResearchEval) 
+
 - **<ins>First Try Matters: Revisiting the Role of Reflection in Reasoning Models</ins>**\
 Liwei Kang, **Yue Deng**, Yao Xiao, Zhanfeng Mo, Wee Sun Lee, Lidong Bing\
 Arxiv [\[paper\]](https://arxiv.org/abs/2510.08308) [\[code\]](https://github.com/Olafyii/first-try-matters) [\[data\]](https://huggingface.co/datasets/olafyiii/first-try-matters)
@@ -59,11 +63,11 @@ COLM 2025 [\[paper\]](https://openreview.net/forum?id=RsnxggqW4l#discussion) [\[
 
 - **<ins>SeaLLMs 3: Open Foundation and Chat Multilingual Large Language Models for Southeast Asian Languages</ins>**\
 Wenxuan Zhang, Hou Pong Chan, Yiran Zhao, Mahani Aljunied, Jianyu Wang, Chaoqun Liu, **Yue Deng**, Zhiqiang Hu, Weiwen Xu, Yew Ken Chia, Xin Li, Lidong Bing\
-NAACL 2025 System Demostration Track [\[paper\]](https://arxiv.org/abs/2407.19672) [\[code\]](https://huggingface.co/SeaLLMs/SeaLLMs-v3-7B-Chat)
+NAACL 2025 System Demostration Track [\[paper\]](https://aclanthology.org/2025.naacl-demo.10/) [\[code\]](https://huggingface.co/SeaLLMs/SeaLLMs-v3-7B-Chat)
 
 - **<ins>SeaLLMs - Large Language Models for Southeast Asia</ins>**\
 Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, **Yue Deng**, Sen Yang, Chaoqun Liu, Hang Zhang, Lidong Bing\
-ACL 2024 System Demostration Track [\[paper\]](https://arxiv.org/abs/2312.00738) [\[code\]](https://github.com/DAMO-NLP-SG/SeaLLMs)
+ACL 2024 System Demostration Track [\[paper\]](https://aclanthology.org/2024.acl-demos.28/) [\[code\]](https://github.com/DAMO-NLP-SG/SeaLLMs)
 
 - **<ins>Sentiment Analysis in the Era of Large Language Models: A Reality Check</ins>**\
 Wenxuan Zhang\*, **Yue Deng\***, Bing Liu, Sinno Jialin Pan, Lidong Bing.\
