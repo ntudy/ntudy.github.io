@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at [Miromind.ai](https://miromind.ai/), where I develop Agentic Foundation Models for heavy-duty, long-horizon tasks. My work covers agent scaffolding, model post-training with SFT and RL, and large-scale pretraining data curation. <span style="color:red">**We are actively hiring full-time AI scientists, engineers, and research interns across these areas, so feel free to reach out by email if any of this sounds interesting to you.**</span>
+I am a Research Scientist at [Apodex](https://apodex.com/), where I develop Agentic Foundation Models for heavy-duty, long-horizon tasks. My work covers agent scaffolding, model post-training with SFT and RL, and large-scale pretraining data curation. <span style="color:red">**We are actively hiring full-time AI scientists, engineers, and research interns across these areas, so feel free to reach out by email if any of this sounds interesting to you.**</span>
 
 I received my PhD in the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of [Prof. Sinno Jialin Pan](https://www.cse.cuhk.edu.hk/~sinnopan/index.html). During my PhD, I collaborated extensively with [Dr. Wenxuan Zhang](https://isakzhang.github.io/) and [Dr. Lidong Bing](https://lidongbing.github.io/). I also hold a bachelor's degree in Computer Science from NTU.
 
